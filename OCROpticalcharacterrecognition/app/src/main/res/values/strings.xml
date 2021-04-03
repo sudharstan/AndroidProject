@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OCR - Optical character recognition</string>
+    <string name="start_reading">Start Reading</string>
+</resources>
